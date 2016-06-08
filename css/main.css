@@ -51,6 +51,9 @@ body {
 	padding: 40px 60px;
 	overflow: hidden;
 	max-width: 970px;
+	animation-duration: .38s;
+	animation-fill-mode: both;
+	animation-name: slideInUp;
 }
 
 #me {
@@ -437,6 +440,16 @@ body {
 	}
 }
 
-
+/* -------------- Animation ------------- */
+@keyframes slideInUp {
+    from {
+        transform: translate3d(0, 10px, 0);
+        opacity: 0;
+    }
+    to {
+        transform: translate3d(0, 0, 0);
+        opacity: 1;
+    }
+}
 
 
