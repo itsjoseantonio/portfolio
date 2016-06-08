@@ -1,0 +1,19 @@
+/* TEAM */
+
+Author: José Antonio Valga
+Contact: jos.valga@gmail.com
+Twitter: @jos_ant
+From: Lima city, Perú
+
+/* THANKS */
+
+  name, name, name
+  paginas...
+
+/* SITE */
+
+  Last update: 29/10/14
+  Languaje: Español
+  Standars: HTML5, CSS3, JavaScript
+  Components: Modernizr
+  Software: sublimeText2, Adobe Suite
