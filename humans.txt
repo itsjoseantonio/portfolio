@@ -2,18 +2,17 @@
 
 Author: José Antonio Valga
 Contact: jos.valga@gmail.com
-Twitter: @jos_ant
-From: Lima city, Perú
+Twitter: @itsjoseantoniov
+From: Lima, Perú
 
 /* THANKS */
 
-  name, name, name
-  paginas...
+  Mariella Miranda
 
 /* SITE */
 
-  Last update: 29/10/14
+  Last update: 07/06/16
   Languaje: Español
   Standars: HTML5, CSS3, JavaScript
   Components: Modernizr
-  Software: sublimeText2, Adobe Suite
+  Software: sublimeText3, Adobe Suite
