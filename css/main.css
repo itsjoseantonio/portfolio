@@ -44,7 +44,11 @@ body {
 
 #wrapper {
 	background: #f5f5f5;
+<<<<<<< HEAD
 	border: solid #22A39F;
+=======
+	border: solid #FC6A09;
+>>>>>>> test
 	border-width: 8px 0 2px 0;
 	-webkit-box-sizing:border-box;
 	margin: 40px auto;
@@ -64,12 +68,22 @@ body {
 	float: left;
 	padding-top: 22px;
 	width: 20%;
+	overflow: hidden;
 } 
 
 #picture img {
 	width: 88%;
+	-webkit-transition: .3s all ease;
+	-o-transition: .3s all ease;
+	transition: .3s all ease;
 }
 
+#picture img:hover{
+	-webkit-transform: scale(1.2);
+	-ms-transform: scale(1.2);
+	-o-transform: scale(1.2);
+	transform: scale(1.2);
+}
 #me #des {
 	
 	float: right;
@@ -81,7 +95,11 @@ body {
 }
 
 #des span {
+<<<<<<< HEAD
 	color: #22A39F;
+=======
+	color: #FC6A09;
+>>>>>>> test
 	display: block;
 	font-size: 18px;
 	margin: 10px 0;
@@ -139,7 +157,11 @@ body {
 }
 
 .item-contact .phone:before {
+<<<<<<< HEAD
 	color: #22A39F;
+=======
+	color: #FC6A09;
+>>>>>>> test
 	font-family: 'Flaticon';
 	font-style: normal;
 	font-size: 40px;
@@ -147,7 +169,11 @@ body {
 }
 
 .item-contact .email:before {
+<<<<<<< HEAD
 	color: #22A39F;
+=======
+	color: #FC6A09;
+>>>>>>> test
 	font-family: 'Flaticon';
 	font-style: normal;
 	font-size: 40px;
@@ -155,7 +181,11 @@ body {
 }
 
 .item-contact .about:before {
+<<<<<<< HEAD
 	color: #22A39F;
+=======
+	color: #FC6A09;
+>>>>>>> test
 	font-family: 'Flaticon';
 	font-style: normal;
 	font-size: 40px;
@@ -207,7 +237,11 @@ body {
 }
 
 .center>p:first-of-type {
+<<<<<<< HEAD
 	color: #22A39F;
+=======
+	color: #FC6A09;
+>>>>>>> test
 	display: inline-block;
 	text-transform: uppercase;
 }
@@ -341,7 +375,11 @@ body {
 }
 
 .bg-1 {
+<<<<<<< HEAD
 	background: #22A39F;
+=======
+	background: #FC6A09;
+>>>>>>> test
 }
 
 .bg-2 {
